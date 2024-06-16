@@ -48,6 +48,7 @@
   <img src="https://cdn.simpleicons.org/rust/000000" height="40" alt="rust logo"  />
 </div>
 
+---
 ###
 
 <p align="center">
