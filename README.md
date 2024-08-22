@@ -47,7 +47,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/rust/000000" height="40" alt="rust logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/kotlin.svg" height="40" alt="jetbrains logo"  />
+  <img src="https://cdn.simpleicons.org/kotlin/000000" height="40" alt="kotlin logo"  />
   <img width="12" />
 </div>
 
