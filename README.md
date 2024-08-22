@@ -46,6 +46,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/rust/000000" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/kotlin.svg" height="40" alt="jetbrains logo"  />
+  <img width="12" />
 </div>
 
 ---
